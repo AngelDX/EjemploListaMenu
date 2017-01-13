@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author EP.SISTEMAS
+ * @author Ing. Angel Condori
  */
 public class EjercicioLinkenlist {
     public static List<Computadora> lista=new LinkedList<Computadora>();
